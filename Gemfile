@@ -9,7 +9,7 @@ gem 'rails', '~> 5.2.0'
 
 
 # 本番ではpostgressを使用する
-gem 'pg', group: :production
+#gem 'pg', group: :production
 
 group :development do
   gem 'sqlite3'
